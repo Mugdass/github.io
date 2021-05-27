@@ -1,11 +1,4 @@
-/*******************
-Name: Matas Backevicius
 
-Date: May 25, 2021
-
-Notes: An application with user input to display an employee information.
- And after the user input display all of the three employee information
-*******************/
 
 import java.util.Scanner;
 
